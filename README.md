@@ -7,7 +7,7 @@ The motor is controlled using **Hall sensor signals** to generate the drive tabl
 ## ⚙️ Hardware Setup
 
 - **Motor**: TECO 56 series 
-- **MCU**: TI TMS320F28379D 
+- **MCU**: TI LAUNCHXL-F28379D 
 - **Inverter**: External MOSFET driver board (IRF9540N / IRF540N)  
 - **Hall Sensors**: 3-phase digital Hall ICs (S1, S2, S3)  
 - **Power Supply**: DC 24 V, up to 10 A
